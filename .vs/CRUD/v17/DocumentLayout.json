@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|c:\\users\\admin\\source\\repos\\crud\\crud\\views\\employees\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\employees\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|c:\\users\\admin\\source\\repos\\crud\\crud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|c:\\users\\admin\\source\\repos\\crud\\crud\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|c:\\users\\admin\\source\\repos\\crud\\crud\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|c:\\users\\admin\\source\\repos\\crud\\crud\\models\\updateemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\updateemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|c:\\users\\admin\\source\\repos\\crud\\crud\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|c:\\users\\admin\\source\\repos\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|c:\\users\\admin\\source\\repos\\crud\\crud\\data\\mvcdemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|solutionrelative:crud\\data\\mvcdemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|c:\\users\\admin\\source\\repos\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AE42390-D56E-48B3-A7F4-94556222D21D}|CRUD\\CRUD.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Models\\UpdateEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\UpdateEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Models\\UpdateEmployeeViewModel.cs",
+              "RelativeToolTip": "CRUD\\Models\\UpdateEmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:25:03.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Views\\Employees\\View.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Employees\\View.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Views\\Employees\\View.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Employees\\View.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T19:16:40.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T18:53:29.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBwAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T17:33:38.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Views\\Employees\\Add.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Employees\\Add.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Views\\Employees\\Add.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Employees\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T17:31:13.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwGwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:26:07.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Models\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Models\\Domain\\Employee.cs",
+              "RelativeToolTip": "CRUD\\Models\\Domain\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:38:35.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MVCDemoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Data\\MVCDemoDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD\\Data\\MVCDemoDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\Data\\MVCDemoDbContext.cs",
+              "RelativeToolTip": "CRUD\\Data\\MVCDemoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:33:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
+              "RelativeDocumentMoniker": "CRUD\\CRUD.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
+              "RelativeToolTip": "CRUD\\CRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T09:31:15.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

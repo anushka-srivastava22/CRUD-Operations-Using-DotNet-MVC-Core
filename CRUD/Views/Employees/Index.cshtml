@@ -1,0 +1,35 @@
+﻿@model List<CRUD.Models.Domain.Employee>
+
+@{
+}
+
+<h1>Employees</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Phone</th>
+			<th>Address</th>
+			<th>Age</th>
+			<th></th>
+		</tr>
+	</thead>
+
+	<tbody>
+		@foreach (var employee in Model)
+		{
+			<tr>
+				<td>@employee.Id</td>
+				<td>@employee.Name</td>
+				<td>@employee.Email</td>
+				<td>@employee.Phone</td>
+				<td>@employee.Address</td>
+				<td>@employee.Age</td>
+				<td><a href="Employees/View/@employee.Id">View</a> </td>
+			</tr>
+		}
+	</tbody>
+</table>
